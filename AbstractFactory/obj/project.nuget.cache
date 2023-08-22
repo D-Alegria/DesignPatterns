@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaj10da/JQqF61Pm8reCIJXddLEabNtLH2PHWiA6JFXltSjmwolnh1JNex92n6VRSmSgyI9RjybAzjjcJOY1Hg==",
+  "success": true,
+  "projectFilePath": "/Users/demilade/Documents/Projects/Development/CSharp/DesignPatterns/AbstractFactory/AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "/Users/demilade/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/demilade/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/demilade/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

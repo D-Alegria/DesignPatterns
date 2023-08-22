@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ikf5O8zoGtF9ZybLN8J+V1Jz9r25DjGn85IZwwR0GfQCxanxxjfyR/7XNagoOzd1z7LvWaED1eOH+t8sj+qDUQ==",
+  "success": true,
+  "projectFilePath": "/Users/demilade/Documents/Projects/Development/CSharp/DesignPatterns/Observer/Observer.csproj",
+  "expectedPackageFiles": [
+    "/Users/demilade/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/demilade/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/demilade/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
