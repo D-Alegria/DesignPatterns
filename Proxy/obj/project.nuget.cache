@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKuPn/UnVq/Ov5/zmkHCE9727cD6ZifsFtqa2AMn8Fucj3Qq4+aEsgWAm0D4wIEWtb3tgz2y7xDgbetqDQrGug==",
+  "dgSpecHash": "khwcrp/Hc6l2025+egtVTWZEaIqHq5eHAIxJBm0xMIgugmpzh4KHcyEE8oER5NaxVODj6k0q/uvc6FmhIklcZw==",
   "success": true,
   "projectFilePath": "/Users/demilade/Documents/Projects/Development/CSharp/DesignPatterns/Proxy/Proxy.csproj",
-  "expectedPackageFiles": [
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k2prbrbPOxm629wcF2sO9LhO9X6iHqUonSAC2u5OcPss10cd8auBFHw52t0ucHE3N5arV5DY8x7oyiWX5Te3Dw==",
+  "dgSpecHash": "Mt2hOmJK9sherETo7IKsN1Vedbs0C6sUq78XmYY/c7yr9cr9niZXVZaDEtqSrBxO0tGBvFVq8w7LH7eGTN+Q1w==",
   "success": true,
   "projectFilePath": "/Users/demilade/Documents/Projects/Development/CSharp/DesignPatterns/Strategy/Strategy.csproj",
-  "expectedPackageFiles": [
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

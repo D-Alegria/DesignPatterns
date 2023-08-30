@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fkJj0lQa8GYTzUn0SyY26dD9fX3bD4pr3e4rbczmr3sPBIztU1ZBBEcxtQTAWYI5Sxll9wARJIxr8N35gQzgtA==",
+  "dgSpecHash": "Lv80OojSv2NJke87BgYZBpzb7bFu4W3WUzihQ2mYtRE/w6e6hlCtAgoQ1RIhHUPpskCy4UdqRgpL+efo3MUhMA==",
   "success": true,
   "projectFilePath": "/Users/demilade/Documents/Projects/Development/CSharp/DesignPatterns/Memento/Memento.csproj",
-  "expectedPackageFiles": [
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/demilade/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
