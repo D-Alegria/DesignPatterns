@@ -19,4 +19,10 @@ characterObject?.Draw("Times new Roman", 16);
 characterObject = characterFactory.GetCharacter(aBunchOfCharacters[3]);
 characterObject?.Draw("Comic Sans", 18);
 
+// create unshared concrete flyweight (paragraph)
+var paragraph = characterFactory.CreateParagraph(new List<ICharacter>() { characterObject! }, 1);
+
+// draw the paragraph
+paragraph.Draw("Lucinda", 12);
+
 Console.ReadKey();
